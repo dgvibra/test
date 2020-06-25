@@ -2,7 +2,7 @@
 
 <p>Una vez resulto el test, se debe enviar la dirección del repositorio público con el código fuente a la siguiente dirección: dario.gimenez@vibragaming.com.</p>
 <p>La consigna se encuentra descripta en el archivo: Spieldev - Applicant Technical Test.pdf</p>
-<p><a href="http://games.spieldev.com/applicant-test/">Ver demo</a></p>
+<p><a href="http://games.spieldev.com/applicant-test/" target="_blank">Ver demo</a></p>
 
 <h2>Objetivo</h2>
 <p>El objetivo del presente test de aptitud es comprobar la manera en la que el aspirante al puesto de desarrollador resuelve el problema planteado. Se tendrán en cuenta diversos aspectos técnicos al momento de evaluar el desarrollo. A saber:</p>
@@ -65,7 +65,7 @@ wrapper.spin();<br></i></p>
 	<li>Línea 3 (horizontal inferior): celdas 3, 4 y 5.</li>
 	<li>Línea 4 (diagonal descendente): celdas 0, 4 y 8.</li>
 	<li>Línea 5 (diagonal ascendente): celdas 6, 4 y 2.</li>
-</li>
+</ul>
 
 <p><i>getPaytable():Array&lt;Object&gt;</i></p>
 <p>El método getPaytable devuelve un listado de objetos que define cuánto paga cada combinación de símbolos. En este caso la cantidad mínima de símbolos necesarios es 3.
