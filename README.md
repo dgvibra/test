@@ -1,7 +1,6 @@
 Applicant Technical Test
 
-Una vez resuelto el test, se debe enviar el código fuente con los comentarios necesarios para correr el
-juego a los siguientes contactos: dario@spieldev.com y fernando@spieldev.com .
+Una vez resulto el test, se debe enviar la dirección del repositorio público con el código fuente a la siguiente dirección: dario.gimenez@vibragaming.com.
 
 La consigna se encuentra descripta en el archivo: Spieldev - Applicant Technical Test.pdf
 
