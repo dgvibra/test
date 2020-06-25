@@ -1,7 +1,6 @@
 <h1>Applicant Technical Test</h1>
 
 <p>Una vez resulto el test, se debe enviar la dirección del repositorio público con el código fuente a la siguiente dirección: dario.gimenez@vibragaming.com.</p>
-<p>La consigna se encuentra descripta en el archivo: Spieldev - Applicant Technical Test.pdf</p>
 <p><a href="http://games.spieldev.com/applicant-test/" target="_blank">Ver demo</a></p>
 
 <h2>Objetivo</h2>
